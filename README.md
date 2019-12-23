@@ -12,7 +12,7 @@ The project aims to create a Postgres database with tables designed to optimize 
 - etl.py: Reads and processes files from song_data and log_data and loads them into database tables.
 
 ## Database Schema
-![](images/schema.JPG)
+![](images/schema.jpg)
 [dbdiagram.io](https://dbdiagram.io/d/5e0100dbedf08a25543f5ca7)
 
 ### Fact Table
@@ -87,16 +87,16 @@ And below is an example of what a single line of data in a log file, 2018-11-22-
 ## test.ipynb results
 
 ### songplays
-![](images/songplays.JPG)
+![](images/songplays.jpg)
 
 ### users
-![](images/users.JPG)
+![](images/users.jpg)
 
 ### songs
-![](images/songs.JPG)
+![](images/songs.jpg)
 
 ### time
-![](images/time.JPG)
+![](images/time.jpg)
 
 ### artists
-![](images/artists.JPG)
+![](images/artists.jpg)
